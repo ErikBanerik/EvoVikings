@@ -1,4 +1,4 @@
-# This is a game about Vikings to explore evolutionary algorithms
+# A game about Vikings to explore simple AIs
 
 ## ToDo
 - create Codebase
