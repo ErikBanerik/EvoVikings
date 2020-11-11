@@ -5,5 +5,5 @@
 - create "Art"
 - create AI
 - create Interface
-- create Interaction
+- create Command-Structure
 - expand
