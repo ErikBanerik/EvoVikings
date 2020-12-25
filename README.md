@@ -2,7 +2,6 @@
 
 ## ToDo
 - create Codebase
-- create "Art"
 - create AI
 - create Interface
 - create Command-Structure
