@@ -12,18 +12,17 @@ pygame.display.set_caption("EvoVikings")
 
 gameRunning = True
 
-### GAME LOOP
+# GAME LOOP
 while gameRunning:
-    ### EVENT LOOP
+    # EVENT LOOP
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             gameRunning = False
 
-    ### CONTENT
+    # CONTENT
     gameWindow.fill((0, 0, 0))
 
-
-    ### UPDATE
+    # UPDATE
     pygame.display.update()
 
 
